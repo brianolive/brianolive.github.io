@@ -103,3 +103,9 @@ footer_links:
 - title: Github
   url: https://github.com/brianolive
   icon: fab fa-github
+- title: CodePen
+  url: https://codepen.io/brianolive/
+  icon: fab fa-codepen
+- title: YouTube
+  url: https://www.youtube.com/channel/UC96xDGVuKLa5-LPV02BGYOw
+  icon: fab fa-youtube-square
