@@ -97,6 +97,9 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+# - title: Feed
+#   url: atom.xml
+#   icon: fas fa-rss-square
+- title: Github
+  url: https://github.com/brianolive
+  icon: fab fa-github
