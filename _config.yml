@@ -109,3 +109,6 @@ footer_links:
 - title: YouTube
   url: https://www.youtube.com/channel/UC96xDGVuKLa5-LPV02BGYOw
   icon: fab fa-youtube-square
+- title: Twitter
+  url: https://twitter.com/_brianolive
+  icon: fab fa-twitter
