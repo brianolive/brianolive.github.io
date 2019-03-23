@@ -86,14 +86,17 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
+  name: Brian Olive
+  picture: "/images/me.png"
+  email: 
+  twitter: @_brianolive
   links:
-    - title:
-      url:
-      icon:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/brian-olive-484195128/
+      icon: fab fa-linkedin
+    - title: Twitter
+      url: https://twitter.com/_brianolive
+      icon: fab fa-twitter
 
 # Footer Links
 footer_links:

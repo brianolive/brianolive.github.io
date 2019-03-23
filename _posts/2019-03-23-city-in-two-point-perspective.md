@@ -1,7 +1,7 @@
 ---
 title: "City in Two-Point Perspective"
 categories:
-  - Drawing
+  - Art
 tags:
   - Drawing
   - Procreate
