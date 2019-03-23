@@ -115,3 +115,6 @@ footer_links:
 - title: Twitter
   url: https://twitter.com/_brianolive
   icon: fab fa-twitter
+- title: Stack Overflow
+  url: https://stackoverflow.com/users/4403144/brianolive
+  icon fab fa-stack-overflow
