@@ -16,7 +16,7 @@
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Brian Olive"
-description: "Orlando, Florida | [What I'm Working On](https://trello.com/b/3MQuD7aY)"
+description: "Orlando, Florida"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://brianolive.github.io"
 logo: "/images/logo.png"
