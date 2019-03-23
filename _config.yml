@@ -103,6 +103,9 @@ footer_links:
 - title: Github
   url: https://github.com/brianolive
   icon: fab fa-github
+- title: LinkedIn
+  url: https://www.linkedin.com/in/brian-olive-484195128/
+  icon: fab fa-linkedin
 - title: CodePen
   url: https://codepen.io/brianolive/
   icon: fab fa-codepen
