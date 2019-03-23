@@ -1,6 +1,16 @@
 <header class="masthead">
   <div class="wrap">
-    <a href="https://trello.com/b/3MQuD7aY">What I'm Working On</a><br><br>
+  
+  {%- if site.trello_link -%}
+    <div class="social-icons">
+      {%- for trello in site.trello_link -%}
+        <a class="social-icon" href="{{ trello.url }}"><i class="{{ trello.icon | default: 'fas fa-link' }} fa-2x" title="{{ trello.title }}"></i></a>
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+    
+    <a href="https://trello.com/b/3MQuD7aY">What I'm Working On!</a><br><br>
+    
     {% if site.logo %}
       <a href="{{ '/' | relative_url }}" class="site-logo" rel="home" title="{{ site.title }}">
         <img src="{{ site.logo | relative_url }}" class="site-logo-img animated fadeInDown" alt="{{ site.title }}">
