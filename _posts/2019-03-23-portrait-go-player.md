@@ -2,9 +2,9 @@
 title: "Portrait: Go Player"
 categories:
   - Art
-  - Go
 tags:
-  - iPad art
+  - Art
+  - iPad
   - Paper
   - Go
 ---
