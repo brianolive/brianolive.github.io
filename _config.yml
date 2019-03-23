@@ -121,8 +121,3 @@ footer_links:
 - title: Stack Overflow
   url: https://stackoverflow.com/users/4403144/brianolive
   icon: fab fa-stack-overflow
-
-trello_link:
-- title: Trello
-  url: https://trello.com/b/3MQuD7aY
-  icon: fab fa-trello
