@@ -1,5 +1,5 @@
 ---
-title: "Code Smelt 1: Range-based For Loop"
+title: "Code Smelt: Range-Based For Loop"
 excerpt_separator: "<!--more-->"
 categories:
   - Code Smelting
