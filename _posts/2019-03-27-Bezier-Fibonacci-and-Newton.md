@@ -3,7 +3,7 @@ title: "Bezier, Fibonacci and Newton"
 categories:
   - Programming
 tags:
-  - Codea
+  - codea
   - physics
   - curves
 ---

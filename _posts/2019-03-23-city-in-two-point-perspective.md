@@ -3,8 +3,8 @@ title: "City in Two-Point Perspective"
 categories:
   - Art
 tags:
-  - Drawing
-  - Procreate
+  - drawing
+  - procreate
 ---
 
 Thanks to [Circle Line Art School](https://www.circlelineartschool.com)'s [YouTube channel](https://www.youtube.com/channel/UCVQxmyIOutGT4lmWlDN9pmA) for the inspiration and practice lesson. Here's how it turned out for me using [Procreate](https://procreate.art/ipad):
