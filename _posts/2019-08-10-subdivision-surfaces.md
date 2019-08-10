@@ -13,6 +13,6 @@ Resource (image left): 3D Engine Design for Virtual Globes
 
 Results (image right): Visualized in [Codea](http://codea.io)
 
-Code is available [here](https://github.com/brianolive/SubdivisionSurfaces).
+Code is available [here](https://github.com/brianolive/SubdivisionSurfaces.codea).
 
 <img src="/images/subdivision.png" class="align-center" alt="">
