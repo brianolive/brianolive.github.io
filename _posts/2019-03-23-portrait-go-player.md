@@ -1,7 +1,5 @@
 ---
 title: "Portrait: Go Player"
-image:
-  path: /images/colca-lg.png
 categories:
   - Art
 tags:
