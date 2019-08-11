@@ -1,7 +1,7 @@
 ---
 title: "Colca"
 image:
-  path: /images/colca.png
+  path: /images/colca-lg.png
   thumbnail: /images/colca.png
   caption: "Colca"
 ---
