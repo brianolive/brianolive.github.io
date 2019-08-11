@@ -1,8 +1,8 @@
 ---
 title: "Colca"
 image:
-  path: /images/colca-200.png
-  thumbnail: /images/colca-200.png
+  path: /images/colca.png
+  thumbnail: /images/colca.png
   caption: "Colca"
 ---
 
