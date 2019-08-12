@@ -1,5 +1,8 @@
 ---
 title: "Tessellation Basics: Subdivision Surfaces"
+image:
+  path: /images/subdivision-lg.png
+  thumbnail: /images/subdivision-lg.png
 categories:
   - Programming
   - Tag Trek
