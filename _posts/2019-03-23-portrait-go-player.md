@@ -2,6 +2,7 @@
 title: "Portrait: Go Player"
 image:
   path: /images/tanaka-lg.png
+  thumbnail: /images/tanaka-lg.png
 categories:
   - Art
 tags:
