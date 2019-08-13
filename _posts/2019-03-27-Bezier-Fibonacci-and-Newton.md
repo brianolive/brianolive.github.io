@@ -1,5 +1,8 @@
 ---
 title: "Bezier, Fibonacci and Newton"
+image:
+  path: /images/bezier-lg.png
+  thumbnail: /images/bezier-lg.png
 categories:
   - Programming
 tags:
