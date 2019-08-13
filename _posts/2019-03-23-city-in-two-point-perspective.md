@@ -1,5 +1,8 @@
 ---
 title: "City in Two-Point Perspective"
+image:
+  path: /images/city2pt-lg.png
+  thumbnail: /images/city2pt-lg.png
 categories:
   - Art
 tags:
