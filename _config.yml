@@ -19,7 +19,7 @@ title: "Brian Olive"
 description: "Orlando, Florida"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://brianolive.github.io"
-logo: "/images/logo.png"
+logo: "/images/me2.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -101,7 +101,7 @@ defaults:
 # Site Author
 author:
   name: "Brian Olive"
-  picture: "/images/me.png"
+  picture: "/images/me2.png"
   email: 
   twitter: _brianolive
   links:
