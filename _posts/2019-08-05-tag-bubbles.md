@@ -1,6 +1,7 @@
 ---
 title: "Tag Bubbles"
 image:
+  path: /images/tag_bubbles-lg.png
   thumbnail: /images/tag_bubbles-lg.png
 categories:
   - Programming
