@@ -3,7 +3,7 @@ title: "The Win or the Way"
 image:
   path: /images/go-straus-lg.jpeg
   thumbnail: /images/go-straus-lg.jpeg
-  caption: ”photo by [Phil Straus](http://www.strausphoto.com)"
+  caption: photo by [Phil Straus](http://www.strausphoto.com)
 categories:
   - Go
 tags:
