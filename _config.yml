@@ -118,7 +118,7 @@ footer_links:
 #   url: atom.xml
 #   icon: fas fa-rss-square
 - title: Trello
-  url: https://trello.com/b/3MQuD7aY
+  url: https://trello.com/b/AMNLJY9w/new-me
   icon: fab fa-trello
 - title: Github
   url: https://github.com/brianolive
@@ -126,9 +126,6 @@ footer_links:
 - title: LinkedIn
   url: https://www.linkedin.com/in/brian-olive-484195128/
   icon: fab fa-linkedin
-- title: CodePen
-  url: https://codepen.io/brianolive/
-  icon: fab fa-codepen
 - title: YouTube
   url: https://www.youtube.com/channel/UC96xDGVuKLa5-LPV02BGYOw
   icon: fab fa-youtube-square
