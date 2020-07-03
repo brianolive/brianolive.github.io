@@ -1,7 +1,7 @@
 ---
 title: "YouTube Channel"
 image:
-  path: /images/meWithGuitar.jpg
+  path: /images/meWithGuitar_detail.jpg
   thumbnail: /images/meWithGuitar.jpg
   caption: "YouTube Channel"
 ---
